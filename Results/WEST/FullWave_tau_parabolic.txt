@@ -1,0 +1,12 @@
+# Full-Wave Times-of-flight
+# WEST parabolic profile
+# Including correction for origin offset
+
+# R(m)	τ(ns)
+2.8000	181835.10502127
+2.9200	88107.41868669
+2.9800	33633.92283321
+2.9900	22227.39775630
+2.9966	10798.56953731
+2.9990	5044.05287075
+2.9999	6357.20689259
